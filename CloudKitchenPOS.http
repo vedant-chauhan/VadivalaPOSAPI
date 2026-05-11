@@ -1,0 +1,6 @@
+@CloudKitchenPOS_HostAddress = http://localhost:5246
+
+GET {{CloudKitchenPOS_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
